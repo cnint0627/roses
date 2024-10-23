@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shyl.life</id>
+    <title>Life~</title>
+    <updated>2024-10-23T02:46:52.266Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shyl.life"/>
+    <link rel="self" href="https://shyl.life/atom.xml"/>
+    <subtitle>Life is not all roses</subtitle>
+    <logo>https://shyl.life/images/avatar.png</logo>
+    <icon>https://shyl.life/favicon.ico</icon>
+    <rights>All rights reserved 2024, Life~</rights>
+    <entry>
+        <title type="html"><![CDATA[霸气]]></title>
+        <id>https://shyl.life/post/ba-qi/</id>
+        <link href="https://shyl.life/post/ba-qi/">
+        </link>
+        <updated>2024-10-23T02:39:21.000Z</updated>
+        <content type="html"><![CDATA[<p>喜欢这样的老师😎<br>
+<img src="https://shyl.life/post-images/1729651456438.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://shyl.life/post/about/</id>
+        <link href="https://shyl.life/post/about/">
+        </link>
+        <updated>2024-10-22T12:54:37.000Z</updated>
+        <content type="html"><![CDATA[<p>Shiyan Liu<br>
+Undergraduate, Department of Computer Science<br>
+📪<a href="shyl@hust.edu.cn">shyl@hust.edu.cn</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[序]]></title>
+        <id>https://shyl.life/post/xu/</id>
+        <link href="https://shyl.life/post/xu/">
+        </link>
+        <updated>2024-10-22T12:39:47.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>什么叫失败？也许可以说，人去做一件事情，没有达到预期的目的，这就是失败。但是，那些与命运斗争的人，那些做接近自己限度的斗争的人，却天生地接近这种失败。</p>
+<p>只有那些安于自己限度之内的生活的人才总是“胜利”，这种“胜利者”之所以常胜不败，只是因为他的对手是早已降伏的，或者说，他根本没有投入斗争。</p>
+<p>在人生的道路上，“失败”这个词还有另外的含义，即是指人失去了继续斗争的信心，放下了手中的武器。人类向限度屈服，这种才是真正的失败。而没有放下武器，还在继续斗争，继续向限度挑战的人并没有失败。</p>
+<p>胜利就是战斗到最后的时刻。</p>
+</blockquote>
+<p><a href="https://www.zhihu.com/question/21158801/answer/621945248">怎么看待努力之后的失败？ - 斯科宁的回答 - 知乎</a></p>
+]]></content>
+    </entry>
+</feed>
